@@ -1,6 +1,6 @@
 # 📋 Dashboard-App
 
-Um aplicativo moderno de gerenciamento de tarefas desenvolvido com React e TypeScript, com foco em experiência do usuário e boas práticas de desenvolvimento.
+Um aplicativo moderno de gerenciamento de tarefas desenvolvido com React e TypeScript, com foco em experiência do usuário, organização de código e boas práticas de desenvolvimento.
 
 ---
 
@@ -9,14 +9,14 @@ Um aplicativo moderno de gerenciamento de tarefas desenvolvido com React e TypeS
 * ✅ Criar tarefas
 * 📝 Editar tarefas
 * ✔️ Marcar como concluída
-* 🗑 Excluir tarefas
-* 🔍 Filtrar por:
+* 🗑 Excluir tarefas com confirmação
+* 🔍 Filtros inteligentes:
 
   * Todas
   * Pendentes
   * Concluídas
-* 🔔 Feedback visual com toast
-* 💾 Persistência com localStorage
+* 🔔 Feedback visual com toast (criação, edição e exclusão)
+* 💾 Persistência de dados com localStorage
 
 ---
 
@@ -32,18 +32,17 @@ Um aplicativo moderno de gerenciamento de tarefas desenvolvido com React e TypeS
 
 ## 🧠 Conceitos aplicados
 
-* Componentização
+* Componentização de interface
 * Custom Hooks (`useTasks`)
-* Gerenciamento de estado
+* Gerenciamento de estado com React Hooks
 * Separação de responsabilidades
 * Boas práticas com TypeScript
-* UX (User Experience)
+* Experiência do usuário (UX)
+* Persistência de dados no navegador
 
 ---
 
-## 🌐 Acesse o projeto
-
-👉 [Clique aqui para acessar](https://seu-link-aqui.com)
+## 🌐 Acesse o projeto 👉 [Clique aqui para acessar](https://seu-link-aqui.com)
 
 ---
 
@@ -51,10 +50,10 @@ Um aplicativo moderno de gerenciamento de tarefas desenvolvido com React e TypeS
 
 ```bash
 # Clonar repositório
-git clone https://github.com/seu-usuario/seu-repo.git
+git clone https://github.com/GusttaavoMelo/Dashboard-app.git
 
 # Entrar na pasta
-cd seu-repo
+cd Dashboard-app
 
 # Instalar dependências
 npm install
@@ -67,16 +66,16 @@ npm run dev
 
 ## 💼 Sobre o projeto
 
-Este projeto foi desenvolvido com o objetivo de praticar e demonstrar habilidades em desenvolvimento front-end utilizando React, com foco em código limpo, organização e experiência do usuário.
+Este projeto foi desenvolvido com o objetivo de praticar e demonstrar habilidades em desenvolvimento front-end utilizando React, com foco em organização, legibilidade de código e construção de interfaces modernas.
 
 ---
 
 ## 📌 Melhorias futuras
 
 * 🔐 Autenticação de usuários
-* ☁️ Integração com backend (Firebase/API)
+* ☁️ Integração com backend (Firebase ou API)
 * 🌙 Dark/Light mode
-* 🔄 Drag and Drop
+* 🔄 Drag and Drop para reordenar tarefas
 
 ---
 
