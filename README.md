@@ -42,7 +42,7 @@ Um aplicativo moderno de gerenciamento de tarefas desenvolvido com React e TypeS
 
 ---
 
-## 🌐 Acesse o projeto 👉 [Clique aqui para acessar](https://seu-link-aqui.com)
+## 🌐 Acesse o projeto 👉 [Clique aqui para acessar]([https://seu-link-aqui.com](https://dashboarddapp.netlify.app/))
 
 ---
 
